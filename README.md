@@ -1,1 +1,1 @@
-New repository for course of HTML and CSS
+*New repository for course of HTML and CSS*
