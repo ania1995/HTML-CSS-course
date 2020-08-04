@@ -1,0 +1,9 @@
+h1{
+    color: lightslategray;
+    text-decoration: underline;
+    text-transform: uppercase ;
+}
+
+#navigation a{
+    color:lightcoral
+}
