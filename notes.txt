@@ -2,3 +2,11 @@ Lesson 1
 	HTML
 	CSS
 	Java Script
+Lesson 2
+	HTML = Hyper Text Markup Language
+
+	HTML - The structure
+	CSS - The styling
+	Java Script - Making a web page interactive
+
+	<blochquote> Quotes </blockquote>
